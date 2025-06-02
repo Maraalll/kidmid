@@ -1,0 +1,12 @@
+streamlit
+requests
+pandas
+gspread
+oauth2client
+moviepy
+Pillow
+moviepy==1.0.3
+imageio==2.31.5
+imageio-ffmpeg==0.4.8
+setuptools
+bcrypt
